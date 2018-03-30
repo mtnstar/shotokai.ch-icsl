@@ -7,6 +7,7 @@ ORGANIZERS = { 'h.itten' => 'Heiner Itten',
                'stefan.mumenthaler' => 'Stefan Mumenthaler',
                'erika.sidler' => 'Erika Sidler',
                'dieter.zehr' => 'Dieter Zehr',
+               'marc.schneiter' => 'Marc Schneiter',
                'ps' => 'Pascal Simon'
 }.freeze
 
